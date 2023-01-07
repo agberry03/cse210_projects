@@ -33,7 +33,7 @@ class Program
                 {
                     Console.WriteLine("You guessed it!");
                     guessList.Add(guessNum);
-                    Console.WriteLine($"You guessed it in {guessList.Count()} tries.");
+                    Console.WriteLine($"You guessed it in {guessList.Count} tries.");
                 }
             }
             Console.Write("Would you like to play again? ");
