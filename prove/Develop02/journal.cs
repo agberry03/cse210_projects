@@ -7,7 +7,7 @@ public class Journal
         PromptGenerator promptGenerator = new PromptGenerator();
         string randomPrompt = promptGenerator.GetPrompt();
         string acceptPrompt = "";
-        
+
         Console.WriteLine();
 
         // Continue giving different prompts until the user selects "Y".
