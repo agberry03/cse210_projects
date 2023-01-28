@@ -1,5 +1,22 @@
-using System;
+/*
+    Showing creativity and exceeding core requirements:
 
+    I showed creativity and exceeded core requirements by
+    addressing the problem of people thinking there isn't time
+    to keep a journal. I did this by tracking the number of minutes
+    the program was spent running, and outputting this to the user
+    after quitting the program. It will probably have only taken
+    the user a few minutes to answer some prompts and save the
+    file, so seeing that so little times was actually wasted
+    will be encouraging to the user.
+
+    In addition to this, I also added new variables,
+    inputs, and logic to the AddEntry method in the
+    Journal class to ask the user if they would like
+    to accept the prompt or ask for a new one. Refusing
+    the current prompt will call GetPrompt again and
+    give the user another randomized prompt.
+*/
 class Program
 {
     static void Main(string[] args)
