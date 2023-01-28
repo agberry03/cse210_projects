@@ -1,2 +1,4 @@
-01/27/2023::What is one thing you can start doing right now to improve yourself?::Being more open to getting help from others.
-01/27/2023::What challenges did you face today? How did you overcome them?::I was having a hard time figuring out this assignment, but then I reached out to my sister and she helped explain things to me.
+01/27/2023::Did you do anything fun today?::No, just lots of schoolwork. But I started to have fun once I had this assignment figured out!
+01/27/2023::What is something nice someone did for you today?::My oldest sister helped me with my schoolwork by helping me to understand this assignment. It is so wonderful that she would take so much time out of her day just to help me! Thanks to her, I have a much better grasp on how abstraction in programming works.
+01/27/2023::What challenges did you face today? How did you overcome them?::I was challenged by this assignment. I wasn't sure how to proceed. Fortunately, I decided to reach out to my sister for help, and she helped me to better understand abstraction so that I could write the program in a way would make it work as it should.
+01/27/2023::How was the weather today?::The weather was cold with a lot of snow.
