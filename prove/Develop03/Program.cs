@@ -32,7 +32,7 @@ class Program
             "for mine own soul; and all the day long " +
             "did I cry unto him; yea, and when the " +
             "night came I did still raise my voice high " +
-            "that it reaced the heavens. " +
+            "that it reached the heavens. " +
 
             "And there came a voice unto me, " +
             "saying: Enos, thy sins are forgiven thee, " +
