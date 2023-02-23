@@ -3,7 +3,7 @@ using System;
 /*
     I showed creativity and exceeded requirements by adding extra functionality to
     the BreathingActivity class. The user now picks a breathing pattern to follow,
-    and the time spent inhaling, exahaling, and holding breath changes
+    and the time spent inhaling, exhaling, and holding breath changes
     to reflect this choice.
 */
 
