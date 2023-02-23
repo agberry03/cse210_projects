@@ -55,6 +55,7 @@ public class EnumerationActivity : Activity
     public void GetCountedItems()
     {
         Console.WriteLine($"You listed {_counter} item(s)!");
+        _counter = 0;
     }
 
     public void CountInputs()
