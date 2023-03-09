@@ -1,0 +1,6 @@
+550
+6
+757
+SimpleGoal:work out,work out for 30 minutes,100,True
+ChecklistGoal:work out,exercise for 15 minutes,50,200,2,2
+EternalGoal:read scriptures,read scriptures for 10 minutes,50
