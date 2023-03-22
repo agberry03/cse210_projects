@@ -15,14 +15,14 @@ public class Event
 
     public void GetStandardDetails()
     {
-        
+        Console.WriteLine($"{_title}\n{_description}\nOn {_date.ToShortDateString()} {_date.ToShortTimeString()} at {_address.GetAddressString()}");
     }
     public virtual void GetFullDetails()
     {
-
+        GetStandardDetails();
     }
     public void GetShortDescription()
     {
-        
+        Console.WriteLine($"{GetType()}\n{_title} - {_date.ToShortDateString()}");
     }
 }

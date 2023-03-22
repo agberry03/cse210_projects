@@ -10,6 +10,7 @@ public class Lecture : Event
     }
     public override void GetFullDetails()
     {
-
+        GetStandardDetails();
+        Console.WriteLine($"Speaker: {_speaker} Capacity: {_capacity}");
     }
 }

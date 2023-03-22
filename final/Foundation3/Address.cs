@@ -13,6 +13,6 @@ public class Address
 
     public string GetAddressString()
     {
-        return $"\t{_street}\n\t{_city}, {_state}";
+        return $"{_street} - {_city}, {_state}";
     }
 }
