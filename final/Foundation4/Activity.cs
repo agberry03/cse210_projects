@@ -11,7 +11,9 @@ public abstract class Activity
 
     public string GetSummary()
     {
-        return $"{GetFormattedDate()} {GetType()} ({_minutes} min)- Distance: {GetDistance()} miles, Speed: {GetSpeed()} mph, Pace: {GetPace()} min per mile";
+        return $"{GetFormattedDate()} {GetType()} ({_minutes} min)- " +
+                $"Distance: {GetDistance().ToString("0.0")} miles, Speed: {GetSpeed().ToString("0.0")} " +
+                $"mph, Pace: {GetPace().ToString("0.0")} min per mile";
     }
     public string GetFormattedDate()
     {

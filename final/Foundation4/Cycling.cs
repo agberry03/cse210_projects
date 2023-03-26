@@ -9,7 +9,7 @@ public class Cycling : Activity
 
     public override double GetDistance()
     {
-        return Math.Round(_speed * GetMinutes(), 1);
+        return Math.Round(_speed * GetMinutes() / 60, 1);
     }
     public override double GetSpeed()
     {

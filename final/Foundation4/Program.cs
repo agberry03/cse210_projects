@@ -14,12 +14,12 @@ class Program
 
         // Cycling Activity.
         DateTime cyclingDate = new DateTime(2021, 7, 16);
-        Cycling cycling = new Cycling(cyclingDate, 20, 0.5);
+        Cycling cycling = new Cycling(cyclingDate, 45, 9);
         activities.Add(cycling);
 
         // Swimming Activity.
         DateTime swimmingDate = new DateTime(2022, 9, 5);
-        Swimming swimming = new Swimming(swimmingDate, 120, 5);
+        Swimming swimming = new Swimming(swimmingDate, 80, 20);
         activities.Add(swimming);
 
         // Get the summary of each Activity.
